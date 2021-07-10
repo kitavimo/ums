@@ -1,4 +1,4 @@
 # react-user-management-system
 
-User Management System
+An employee/user management system designed with React
 
